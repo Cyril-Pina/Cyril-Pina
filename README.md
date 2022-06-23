@@ -13,7 +13,7 @@ L'application a été codée en Kotlin sur Android Studio et se présente sous l
 ### <li> Cyril The Android <sub><sup>[Voir la chaîne YouTube](https://www.youtube.com/channel/UCAlqnetFLl1EhsV02C5Xr0w/videos) | [Voir la page Instagram](https://www.instagram.com/cyriltheandroid/)</sup></sub></li>
 
 
-J'ai commencé le projet Cyril The Android il y a presque 1 an afin de partager ma passion pour l'univers Android. Ce partage se matérialise dans un premier temps par une chaîne YouTube où j'effectue des tutoriels et parle de l'actualité (CES, Android Dev Summit,...) et dans un second temps d'une page Instagram où je relaie les actualités et effectue des "Tops" sur divers sujets IT. J'ai plus récemment lancer le concept "1 minute :alarm_clock: 1 notion :brain:", des mini vidéos sur Instragram où j'explique une notion tech (API, Rubber Duck Debugging,...) en moins d'une minute.
+J'ai commencé le projet Cyril The Android il y a presque 1 an afin de partager ma passion pour l'univers Android. Ce partage se matérialise dans un premier temps par une chaîne YouTube où j'effectue des tutoriels et parle de l'actualité (CES, Android Dev Summit,...) et dans un second temps d'une page Instagram où je relaie les nouveautés et effectue des "Tops" sur divers sujets IT. J'ai plus récemment lancer le concept "1 minute :alarm_clock: 1 notion :brain:", des mini vidéos sur Instragram où j'explique une notion tech (API, Rubber Duck Debugging,...) en moins d'une minute.
 
 
 ### <li> Informations Positives <sub><sup>[Voir le Github](https://github.com/Cyril-Pina/InformationsPositives)</sub></sup></li>
