@@ -79,5 +79,6 @@ Autonome sur toute la partie mobile, j'ai appris à maitriser l'ensemble des ét
 
 ## Contact
 
-cyril.pinalopes@hotmail.com\
-[LinkedIn](https://www.linkedin.com/in/cyril-pina-lopes/)
+<a href="mailto:cyril.pinalopes@hotmail.com"><img alt="E-mail" src="https://user-images.githubusercontent.com/38280340/175380877-31bda7e5-432b-4b80-87f8-7ce8602ebe8a.png" width=27 height=20 /></a>
+<a href="https://www.linkedin.com/in/cyril-pina-lopes/"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/38280340/175380195-d372272f-03be-4a88-9be7-682272b28bdf.png" width=20 height=20 /></a>
+<a href="https://www.youtube.com/channel/UCAlqnetFLl1EhsV02C5Xr0w/videos"><img alt="YouTube" src="https://user-images.githubusercontent.com/38280340/175380380-f9faa1b1-e6ed-4f11-8770-1dc6d8c77292.png" width=27 height=20 /></a>
