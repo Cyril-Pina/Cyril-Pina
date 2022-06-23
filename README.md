@@ -57,9 +57,9 @@ Parti d'une idée remontant à plusieurs années désormais, j'ai effectué cett
   - Passionné.
 
 ## Dernières lectures
- - <b>Androids</b> de Cheet Haase <sup>[Lien](https://www.amazon.com/dp/1737354810)</sup>
+ - <b>Androids</b> de Chet Haase <sup>[Lien](https://www.amazon.com/dp/1737354810)</sup>
  - <b>:sparkles:Clean code:sparkles:</b> de Robert C. Martin (Uncle Bob) <sup>[Lien](https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)</sup>
- - <b>Head First Android Development</b> de Dawn Griffiths <sup>[Lien](https://www.amazon.fr/Head-First-Android-Development-Griffiths/dp/1491974052/ref=sr_1_3?keywords=android+development&qid=1656005788&sprefix=android+develop%2Caps%2C55&sr=8-3)</sup>
+ - <b>Head First Android Development</b> de Dawn et David Griffiths <sup>[Lien](https://www.amazon.fr/Head-First-Android-Development-Griffiths/dp/1491974052/ref=sr_1_3?keywords=android+development&qid=1656005788&sprefix=android+develop%2Caps%2C55&sr=8-3)</sup>
 
 
 ## Contact
