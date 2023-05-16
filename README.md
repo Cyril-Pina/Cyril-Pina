@@ -25,7 +25,7 @@ Parti d'une idée remontant à plusieurs années désormais, j'ai effectué cett
 
 ## Projets professionnels
 
-### <li> Voltaire <sub><sup>[Voir la fiche PlayStore](https://play.google.com/store/apps/details?id=bike.voltaire.VoltaireAndroid)</sup></sub></li>
+### <li> Voltaire (de août 2020 à octobre 2022) <sub><sup>[Voir la fiche PlayStore](https://play.google.com/store/apps/details?id=bike.voltaire.VoltaireAndroid)</sup></sub></li>
 
 5 ⭐ sur le PlayStore ! 🚴‍♂️\
 L'application Voltaire permet aux détenteurs de vélo électrique Voltaire d'interagir avec. Plusieurs fonctionnalités sont possibles comme l'allumage et l'extinction du vélo, la gestion de l'assistance électrique ainsi que l'intensité des phares.\
