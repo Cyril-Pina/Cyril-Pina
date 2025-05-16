@@ -13,7 +13,7 @@ L'application a été codée en Kotlin sur Android Studio et se présente sous l
 ### <li> Cyril The Android <sub><sup>[Voir la chaîne YouTube](https://www.youtube.com/channel/UCAlqnetFLl1EhsV02C5Xr0w/videos) | [Voir la page Instagram](https://www.instagram.com/cyriltheandroid/)</sup></sub></li>
 
 
-J'ai commencé le projet Cyril The Android il y a presque 1 an afin de partager ma passion pour l'univers Android. Ce partage se matérialise dans un premier temps par une chaîne YouTube où j'effectue des tutoriels et parle de l'actualité (CES, Android Dev Summit,...) et d'une page Instagram dans un second temps où je relaie les nouveautés et effectue des "Tops" sur divers sujets IT. J'ai plus récemment lancer le concept "1 minute :alarm_clock: 1 notion :brain:", des mini vidéos sur Instragram où j'explique une notion tech (API, Rubber Duck Debugging,...) en moins d'une minute.
+J'ai commencé le projet Cyril The Android il y a plus de 2 ans afin de partager ma passion pour l'univers Android. Ce partage se matérialise dans un premier temps par une chaîne YouTube où j'effectue des tutoriels et parle de l'actualité (CES, Android Dev Summit,...) et d'une page Instagram dans un second temps où je relaie les nouveautés et effectue des "Tops" sur divers sujets IT. J'ai plus récemment lancer le concept "1 minute :alarm_clock: 1 notion :brain:", des mini vidéos sur Instragram où j'explique une notion tech (API, Rubber Duck Debugging,...) en moins d'une minute.
 
 
 ### <li> Informations Positives <sub><sup>[Voir le Github](https://github.com/Cyril-Pina/InformationsPositives)</sub></sup></li>
@@ -25,6 +25,12 @@ Parti d'une idée remontant à plusieurs années désormais, j'ai effectué cett
 
 ## Projets professionnels
 
+### <li> Leboncoin (de novembre 2022 à janvier 2025) <sub><sup>[Voir la fiche PlayStore](https://play.google.com/store/apps/details?id=fr.leboncoin)</sup></sub></li>
+
+Leboncoin, c’est 84 millions d’annonces et une grande partie de la population française active sur ses différentes plateformes.
+J’ai travaillé sur l’application Android pour la verticale Immobilier Pro (ImmoPro), un marché sur lequel Leboncoin est n°1 en France et qui génère plus de 30 % du chiffre d’affaires de l’entreprise.
+Mon rôle consistait à maintenir la codebase existante, développer de nouvelles fonctionnalités à fort usage et assurer une veille technologique continue, le tout dans un environnement rythmé par les rituels agiles SCRUM (daily meetings, rétrospectives, démos, gestion du backlog...).
+
 ### <li> Voltaire (de août 2020 à octobre 2022) <sub><sup>[Voir la fiche PlayStore](https://play.google.com/store/apps/details?id=bike.voltaire.VoltaireAndroid)</sup></sub></li>
 
 5 ⭐ sur le PlayStore ! 🚴‍♂️\
@@ -34,16 +40,17 @@ J'ai commencé le développement de cette application il y a 2 ans from scratch 
 Autonome sur toute la partie mobile, j'ai appris à maitriser l'ensemble des étapes à effectuer pour mettre son application Android sur le PlayStore de manière propre et sécurisée en partant d'un dépôt Git vide.
 
 <i>Autres applications développées au sein de chez Voltaire</i>\
-[Voltaire iOS](https://apps.apple.com/fr/app/voltaire/id1524925021) | [Voltaire Boutique Android](https://play.google.com/store/apps/details?id=bike.voltaire.voltaireboutique) | [Voltaire Boutique iOS](https://apps.apple.com/fr/app/voltaire/id1524925021)
+[Voltaire iOS](https://apps.apple.com/fr/app/voltaire/id1524925021) | [Voltaire Android](https://play.google.com/store/apps/details?id=bike.voltaire.VoltaireAndroid&hl=en) | [Voltaire Boutique Android](https://play.google.com/store/apps/details?id=bike.voltaire.voltaireboutique) | [Voltaire Boutique iOS](https://apps.apple.com/fr/app/voltaire/id1524925021)
 
 ## Skills
   
 - [x] Développement Android 🤖
   - Kotlin et Java.
+  - Jetpack Compose.
   - Android Jetpack.
   - Design Pattern (MVVM, MVC, Singleton, Factory, Builder,...).
   - Injection de dépendances (Dagger/Hilt).
-  - Clean Architecture.
+  - Clean Architecture modularisée.
   - Unit et UI Tests (Espresso, Mockito,...).
   - Implémentation d'API (Retrofit).
   - Programmation réactive (LiveData, Flow,...).
@@ -57,13 +64,19 @@ Autonome sur toute la partie mobile, j'ai appris à maitriser l'ensemble des ét
   - Programmation réactive (RxSwift).
   - Cocoapods.
 
+- [x] Développement KMP (Kotlin Multiplatform) 🔀
+  - Compose Multiplatform.
+  - Modules partagés.
+  - Modules spécifique aux plateformes.
+  - Fonctionnement expect/actual.
+
 - [x] Développement Web (notions) 🖥️
   - HTML.
   - CSS.
   - JavaScript.
 
 - [x] Autres 💪
-  - Agile SCRUM (Stand up/daily meeting, sprint, retro,...).
+  - Agile SCRUM (Stand up/daily meeting, sprint, retro, démo,...).
   - UI/UX (Figma, Adobe XD).
   - Git (Github, Gitlab,CLI,...)
   - CI/CD - Intégration continue et déploiement continu (Gitlab CI/CD).
